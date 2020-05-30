@@ -1,0 +1,23 @@
+.table_box{
+  width: 100%;
+}
+.title_td {
+  background-color: wheat;
+  height: 40px;
+  border: 1px solid #c9c9c9;
+  border-bottom: 5px solid #c9c9c9;
+}
+
+td {
+  border: 1px solid #c9c9c9;
+  width: 16%;
+  cursor: pointer;
+}
+
+.table_button{
+  float: right;
+  width: 90px;
+  height: 30px;
+  margin-right: 3px;
+  margin-top: 10px;
+}

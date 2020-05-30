@@ -1,0 +1,14 @@
+.HomeBox{
+  width: 300px;
+  height: 500px;
+  border: 1px solid #c9c9c9;
+  margin-left: 30px;
+  margin-top: 30px;
+  border-radius: 1cm;
+}
+
+.HomeBox img{
+  margin-top: 30px;
+  width: 250px;
+  height: 200px;
+}
